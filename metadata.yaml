@@ -1,0 +1,30 @@
+_repo: New-lands-within-the-Arctic-circle-Narrative-of-the-discoveries-of-the-Austrian-ship-Tegettho__60258
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Payer, Julius
+    alias: Payer, Julius, Ritter von
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '50872'
+    url: http://www.gutenberg.org/2009/agents/50872
+    wikipedia: https://en.wikipedia.org/wiki/Julius_von_Payer
+description: ''
+gutenberg_issued: '2019-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60258'
+  lccn: '16025754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Admiral Tegetthoff (Ship)'
+- !lcsh 'Arctic regions'
+- !lcc 'G'
+- !lcsh 'Franz Josef Land (Russia) -- Discovery and exploration'
+- GITenberg
+title: "New lands within the Arctic circle\r\nNarrative of the discoveries of the\
+  \ Austrian ship \"Tegetthoff\" in the years 1872-1874"
+url: http://www.gutenberg.org/ebooks/60258
